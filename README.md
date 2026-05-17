@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Enterprise Generative AI RAG Assistant
 
 A fully functional RAG (Retrieval-Augmented Generation) application built using Google AI Studio (Gemini Embeddings), local LLM (Ollama Mistral), LangChain, FAISS, and MongoDB. The frontend is an extraordinarily styled React application using Vite.
@@ -64,3 +65,6 @@ npm run dev
 docker-compose up --build
 ```
 *Note: Depending on your OS, you might need to adjust Docker network settings so the containers can reach your local host's Ollama instance, or use the Ollama container bundled in the docker-compose file.*
+=======
+# AI-RAG-Assistant
+>>>>>>> 729e736016391ac28644a1c25596d58f0ba3c8ed
