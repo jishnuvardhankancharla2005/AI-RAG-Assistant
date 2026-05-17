@@ -1,0 +1,15 @@
+ACME Corp Remote Work & Cybersecurity Policy
+Effective Date: January 1, 2026
+
+1. Remote Work Guidelines:
+All employees are eligible for up to 3 days of remote work per week. Remote work days must be approved by the direct manager at least one week in advance. Employees must ensure they have a stable internet connection and a quiet environment for meetings.
+
+2. Cybersecurity Protocols:
+- VPN Requirement: When working remotely, all employees MUST connect to the ACME Corp internal network using the standard company VPN (Cisco AnyConnect).
+- Device Usage: Only company-issued laptops may be used to access internal databases and source code. Personal devices are strictly prohibited.
+- Phishing Awareness: Employees must complete the mandatory anti-phishing training course by Q2 of each year. Suspicious emails should be reported immediately to the IT Security desk at security@acmecorp.com.
+
+3. Data Classification:
+- Public Data: Marketing materials and press releases. Can be shared freely.
+- Internal Data: Employee directories, company newsletters. Do not share outside the company.
+- Confidential Data: Source code, financial reports, and customer PII (Personally Identifiable Information). Requires encrypted transfer and strict access controls.

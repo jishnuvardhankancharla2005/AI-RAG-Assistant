@@ -1,0 +1,26 @@
+# CyberCorp Inc. - Employee Handbook 2026
+
+## 1. Remote Work Policy
+Employees at CyberCorp Inc. are allowed to work remotely up to 3 days a week. The remaining 2 days must be spent in the office. 
+Core working hours are between 10:00 AM and 3:00 PM (EST), during which all employees must be online and available for team meetings.
+Equipment stipends of $500 per year are provided for home office setups.
+
+## 2. Leave Policy
+All full-time employees are entitled to 20 days of paid time off (PTO) per year. In addition, there are 10 paid public holidays. 
+Sick leave is unlimited, but any sickness lasting more than 3 consecutive days requires a doctor's note.
+Parental leave allows up to 16 weeks of fully paid time off for both primary and secondary caregivers.
+
+## 3. Security Guidelines
+All passwords must be at least 16 characters long and include a mix of uppercase, lowercase, numbers, and special characters. 
+Passwords must be changed every 90 days.
+Access to the production database requires Multi-Factor Authentication (MFA) and is strictly limited to the DevOps and Senior Engineering teams.
+In case of a suspected data breach, employees must immediately contact the Security Operations Center (SOC) at soc@cybercorp.example.com.
+
+## 4. Project "Project Titan"
+Project Titan is an upcoming enterprise cybersecurity suite designed to integrate AI-driven threat detection. 
+The expected launch date for the beta version is Q3 2026. 
+The lead engineer for Project Titan is Sarah Connor, and the product manager is John Smith. 
+Key features include:
+- Real-time Phishing analysis
+- Automated Malware isolation
+- AI-based user behavior anomaly detection
